@@ -11,7 +11,7 @@ This expression parser is written in javascript by Vaibhav Tayal.
 
 ## Commands to run:
 
-- For test cases run `node test.js`
+- For test cases run `node test`
 - For command line run `node index "${expression}"`
 
 ## Following type of expressions are not covered
